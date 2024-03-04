@@ -66,4 +66,4 @@ A new Flutter project.
 
 ## main.dart : the main file for running the material app.
 
-## Demo Video : contains the demo video.
+## Events app.mp4 : the demo video.
